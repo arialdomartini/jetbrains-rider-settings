@@ -1,0 +1,12 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="ide.open.readme.md.on.startup" value="false" />
+        <entry key="se.text.search" value="true" />
+        <entry key="terminal.buffer.max.lines.count" value="1000" />
+        <entry key="terminal.type.ahead" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

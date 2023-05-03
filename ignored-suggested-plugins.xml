@@ -1,0 +1,15 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.intellij.resharper.StructuredLogging" />
+        <option value="com.intellij.resharper.azure" />
+        <option value="com.settler.rider.specflow" />
+        <option value="me.seclerp.rider.plugins.efcore" />
+        <option value="Abc.MoqComplete.Rider" />
+        <option value="fr.socolin.application-insights-debug-log-viewer" />
+        <option value="nsubstitutecomplete-rider" />
+      </list>
+    </option>
+  </component>
+</application>

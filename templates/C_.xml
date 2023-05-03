@@ -1,0 +1,11 @@
+<templateSet group="C#">
+  <template name="fff" value="[Fact]&#10;void $name$()&#10;{&#10;    $END$&#10;}" description="xUnitFact" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
